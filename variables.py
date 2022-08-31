@@ -26,8 +26,11 @@ print(AGE)
 
 X = 1  # int
 Y = 2.3  # float
-NAME = "ÇINAR"  # string
+name = "ÇINAR"  # string
 isStudent = True  # bool
+
+# x,y,name,isStudent=(1,2.3,"çınar", True)
+
 
 a = 10
 b = 20
@@ -37,6 +40,19 @@ a = '10'
 b = '20'
 print(a+b)  # 1020
 
-firstname = "aydim"
+firstname = "aydin"
 lastname = " tokuslu"
-print(firstname+lastname)
+print("adın soyadın : ", firstname+lastname)
+
+
+pi = 3.14
+r = float(input("yarı çap giriniz : "))
+alan = pi * (r ** 2)
+cevre = 2*pi*r
+print("alan : ", alan)
+print(type(alan))
+print("çevre : ", cevre)
+print(type(cevre))
+print("alan : ", alan, "çevre : ", cevre)
+
+print("alan : ", str(alan), "çevre : ", str(cevre))
