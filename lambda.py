@@ -18,6 +18,6 @@ check_even=lambda num:num%2==0
 #result=list(filter(check_even, numbers))
 #result=list(filter(lambda num:num%2==0, numbers))
 #result=list(filter(check_even, numbers))
-result=check_even(numbers[2])
+result=check_even(numbers[2]) #2nci index mod 0 mı 0 ise true, değil ise false
 
 print(result)
