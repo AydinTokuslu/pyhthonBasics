@@ -15,3 +15,4 @@ m=Movie('film adı', 'yönetmen adı', 120)
 
 print(m)
 print(len(m))
+
