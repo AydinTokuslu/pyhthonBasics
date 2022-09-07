@@ -1,0 +1,9 @@
+ydin tokuslu:100,100,85
+elif tokuslu:70,90,90
+enis tokuslu:90,90,90
+sare tokuslu:100,80,60
+çınar turan:100,60,70
+aydin tokuslu:100,90,80
+elif tokuslu:90,80,70
+enis tokuslu:60,70,80
+sare tokuslu:80,70,90

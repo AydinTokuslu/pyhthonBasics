@@ -1,0 +1,9 @@
+ydin tokuslu: AA
+elif tokuslu: BB
+enis tokuslu: FF
+sare tokuslu: BB
+çınar turan: CB
+aydin tokuslu: FF
+elif tokuslu: BB
+enis tokuslu: CC
+sare tokuslu: BB

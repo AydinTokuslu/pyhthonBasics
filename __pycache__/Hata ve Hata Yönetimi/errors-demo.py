@@ -9,7 +9,7 @@ liste=["1","2","5a","10b","abc","10","50"]
 #     except ValueError:
 #         continue
 
-# 2- kulalnıcı 'q' değerini girmedikçe aldığınız her inputun sayı 
+# 2- kullanıcı 'q' değerini girmedikçe aldığınız her inputun sayı 
 # olduğundan emin olunuz, aksi halde hata mesajı yazın
 
 # while True:
