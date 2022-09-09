@@ -24,7 +24,7 @@ import math
 import time
 
 def calculate_time(func):
-    def inner(*args,**kwargs): #farklı çeşit parametreleri gösterir.
+    def inner(*args,**kwargs): #farklı çeşit parametreleri getirir.
         start=time.time()
         time.sleep(1)
         func(*args,**kwargs)
