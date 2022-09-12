@@ -23,7 +23,7 @@ ogrenciler={
 
 '''
 
-ogrenciler={};
+ogrenciler={}
 number=input("öğrenci no : ")
 name=input("öğrenci adı : ")
 surname=input("öğrenci soyadı : ")

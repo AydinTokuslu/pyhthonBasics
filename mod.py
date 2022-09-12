@@ -22,3 +22,5 @@ def func(x):
 class Person:
     def speak(self):
         print('I am speaking')
+
+print(func("araba"))

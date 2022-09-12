@@ -50,6 +50,7 @@ studentC=['Ahmet', 'Turan', 1998, [80,70,90]]
 result=studentA[0]
 result=studentB[1]
 result=studentC[3][2]
+print(studentC[3][2])
 
 result=f"Yiğit Bilgi 9 yaşında ve not ortalaması 66"
 result=f"{studentA[0]} {studentA[1]} {2019-studentA[2]} yaşında ve not ortalaması {(studentA[3][0]+studentA[3][1]+studentA[3][2])/3}"

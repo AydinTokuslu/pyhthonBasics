@@ -3,7 +3,7 @@ import mod
 
 # result=help(mod)
 result=mod.number
-result=mod.numbes
+result=mod.numbers
 result=mod.person["age"]
 
 print(result)

@@ -26,7 +26,7 @@ print(ageCinar,ageAda,ageSena)
 
 def emekliligeKacYilKaldi(dogumYili, isim):
     '''
-    DOCSTRING : Dogum yiiniza gore emekliliginize kac yil kaldi
+    DOCSTRING : Dogum yiliniza gore emekliliginize kac yil kaldi?
     INPUT : Dogum yili
     OUTPUT : Hesaplanan yil bilgisi
     '''
