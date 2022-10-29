@@ -11,17 +11,27 @@
 # print({} or 0)  # F/F = F (or son değeri döndürür) 0 döndürür
 # print({0} or False)  # T/F = T   {0} döndürür
 
-nums = "123456789"
-print(nums[0:9:2])  # Tek Sayılar
-print(nums[1:9:2])  # Çift Sayılar
+# nums = "123456789"
+# print(nums[0:9:2])  # Tek Sayılar
+# print(nums[1:9:2])  # Çift Sayılar
 
-print("clarus"+"way")
+# print("clarus"+"way")
 
-a = "upper"
-b = " case"
-a += b  # a = a + b
-print(a)
+# a = "upper"
+# b = " case"
+# a += b  # a = a + b
+# print(a)
 
-c = " letter"
-a += c  # a = a + c
-print(a)
+# c = " letter"
+# a += c  # a = a + c
+# print(a)
+
+a="MARIAM"
+print(f"My name is {a.capitalize()}")
+print(f"My name is {a.title()}")
+
+name = "Susan"
+age = "young"
+gender = "lady"
+school = "CLRWY IT university"
+print(f"{name} is a {age} {gender} and she is a student at the {school}.")
