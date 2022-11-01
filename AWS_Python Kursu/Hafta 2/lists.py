@@ -24,3 +24,9 @@ bos_liste=[]
 bos_liste = list(range(1,5))
 print(bos_liste)
 
+bos_liste1=[]
+bos_liste1 = list(range(1,5))
+print(bos_liste1)
+
+
+
