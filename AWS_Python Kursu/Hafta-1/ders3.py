@@ -26,12 +26,12 @@
 # a += c  # a = a + c
 # print(a)
 
-a="MARIAM"
-print(f"My name is {a.capitalize()}")
-print(f"My name is {a.title()}")
+# a="MARIAM"
+# print(f"My name is {a.capitalize()}")
+# print(f"My name is {a.title()}")
 
-name = "Susan"
-age = "young"
-gender = "lady"
-school = "CLRWY IT university"
-print(f"{name} is a {age} {gender} and she is a student at the {school}.")
+# name = "Susan"
+# age = "young"
+# gender = "lady"
+# school = "CLRWY IT university"
+# # print(f"{name} is a {age} {gender} and she is a student at the {school}.")
