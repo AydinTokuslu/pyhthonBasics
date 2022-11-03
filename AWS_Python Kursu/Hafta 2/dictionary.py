@@ -28,13 +28,36 @@
 # print(mix_values.items())
 # print(my_dictionary.keys())
 
-school_records={
-	'personal_info':
-		{'kid':{'tom':{'class':'intermediate', 'age':10},
-			'sue':{'class':'elemantary', 'age':8}
-			},
-		'teen':{'joseph':{'class':'college', 'age':19},
-			'marry':{'class':'high school', 'age':16}
-			},
-		},
+# school_records={
+# 	'personal_info':
+# 		{'kid':{'tom':{'class':'intermediate', 'age':10},
+# 			'sue':{'class':'elemantary', 'age':8}
+# 			},
+# 		'teen':{'joseph':{'class':'college', 'age':19},
+# 			'marry':{'class':'high school', 'age':16}
+# 			},
+# 		},
+#     'grades_info':
+# 		{'kid':{'tom':{'math':88, 'speech':69},
+# 			'sue':{'math':90, 'speech':81}
+
+# 			},
+# 		'teen':{'joseph':{'coding':80, 'math':89},
+# 			'marry':{'coding':70, 'math':96}
+# 			},
+# 		}
+# }
+# print(school_records["personal_info"]["kid"]["sue"]["age"])  # 8
+
+family = {
+    "erkek" : {
+        "baba" : {"yas" : 40, "meslek" : "eyt emeklisi" },
+        "kardes" : {"yas" : 22, "meslek" : "ogrenci"}
+    },
+    "kadin" : {
+        "anne" : {"yas" : 40, "meslek" : "emekli albay"},
+        "abla" : {"yas" : 27, "meslek" : "influencer"}
+    }
 }
+
+print(family["kadin"]["anne"]["meslek"])
